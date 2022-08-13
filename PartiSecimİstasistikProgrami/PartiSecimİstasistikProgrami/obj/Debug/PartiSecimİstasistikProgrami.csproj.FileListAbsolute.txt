@@ -1,0 +1,11 @@
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\obj\Debug\PartiSecimİstasistikProgrami.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\obj\Debug\PartiSecimİstasistikProgrami.frmAnasayfa.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\obj\Debug\PartiSecimİstasistikProgrami.frmGrafikler.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\obj\Debug\PartiSecimİstasistikProgrami.Properties.Resources.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\obj\Debug\PartiSecimİstasistikProgrami.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\obj\Debug\PartiSecimİstasistikProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\bin\Debug\PartiSecimİstasistikProgrami.exe.config
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\bin\Debug\PartiSecimİstasistikProgrami.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\bin\Debug\PartiSecimİstasistikProgrami.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\obj\Debug\PartiSecimİstasistikProgrami.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PartiSecimİstasistikProgrami\PartiSecimİstasistikProgrami\obj\Debug\PartiSecimİstasistikProgrami.pdb
